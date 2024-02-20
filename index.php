@@ -23,6 +23,10 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
 </head>
 <body>
 
@@ -45,7 +49,7 @@
                 <div class="content">
                     <div class="author">Beatrice</div>
                     <div class="title">Slider Design</div>
-                    <div class="topic"></div>
+                    <div class="topic">animal</div>
                     <div class="description">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt omnis rem eaque consectetur ab ipsa excepturi debitis natus fugit iusto!
                     </div>
@@ -61,7 +65,7 @@
                 <div class="content">
                     <div class="author">Beatrice</div>
                     <div class="title">Slider Design</div>
-                    <div class="topic"></div>
+                    <div class="topic">animal</div>
                     <div class="description">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt omnis rem eaque consectetur ab ipsa excepturi debitis natus fugit iusto!
                     </div>
@@ -77,7 +81,7 @@
                 <div class="content">
                     <div class="author">Beatrice</div>
                     <div class="title">Slider Design</div>
-                    <div class="topic"></div>
+                    <div class="topic">animal</div>
                     <div class="description">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt omnis rem eaque consectetur ab ipsa excepturi debitis natus fugit iusto!
                     </div>
@@ -92,10 +96,14 @@
                 <img src="Img/img4.jpg" alt="">
                 <div class="content">
                     <div class="author">Beatrice</div>
-                    <div class="title">Slider Design</div>
-                    <div class="topic"></div>
+                    <div class="title">animal</div>
+                    <div class="topic"><span>slider</span> design</div>
                     <div class="description">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt omnis rem eaque consectetur ab ipsa excepturi debitis natus fugit iusto!
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br> 
+                        Corporis eius dolor nobis repellendus, 
+                        voluptatem nulla excepturi accusantium illo <br> facere!
+                        Deleniti facilis nesciunt veritatis aliquam amet voluptatum! <br>
+                        Maiores alias praesentium commodi.
                     </div>
                         <div class="buttons">
                             <button>view more</button>
