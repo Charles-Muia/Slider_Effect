@@ -45,7 +45,7 @@
 
 <!-- <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CAROUSEL>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
 
-    <div class="carousel">
+    <div class="carousel next">
         <div class="list">
             <div class="item">
                 <img src="Img/img1.jpg" alt="">
@@ -96,7 +96,7 @@
             </div>
 
             <div class="item">
-                <img src="Img/Tiger_1.jpg" alt="">
+                <img src="Img/img1.jpg" alt="">
                 <div class="content">
                     <div class="author">Beatrice</div>
                     <div class="title">animal</div>
@@ -118,17 +118,6 @@
 
 <!-- <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<THUMBNAILS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->  
         <div class="thumbnails">
-                <div class="item">
-                    <img src="Img/img1.jpg" alt="">
-                    <div class="content">
-                        <div class="title">
-                            name slider
-                        </div>
-                            <div class="des">
-                                description
-                            </div>
-                    </div>
-                </div>
 
                 <div class="item">
                     <img src="Img/img2.jpg" alt="">
@@ -156,6 +145,18 @@
 
                 <div class="item">
                     <img src="Img/img4.jpg" alt="">
+                    <div class="content">
+                        <div class="title">
+                            name slider
+                        </div>
+                            <div class="des">
+                                description
+                            </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="Img/img1.jpg" alt="">
                     <div class="content">
                         <div class="title">
                             name slider
