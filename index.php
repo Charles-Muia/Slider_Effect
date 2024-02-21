@@ -51,10 +51,14 @@
                 <img src="Img/img1.jpg" alt="">
                 <div class="content">
                     <div class="author">Beatrice</div>
-                    <div class="title">Slider Design</div>
-                    <div class="topic">animal</div>
+                    <div class="title">animal</div>
+                    <div class="topic"><span>slider</span> design</div>
                     <div class="description">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt omnis rem eaque consectetur ab ipsa excepturi debitis natus fugit iusto!
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br> 
+                        Corporis eius dolor nobis repellendus, 
+                        voluptatem nulla excepturi accusantium illo <br> facere!
+                        Deleniti facilis nesciunt veritatis aliquam amet voluptatum! <br>
+                        Maiores alias praesentium commodi.
                     </div>
                         <div class="buttons">
                             <button>view more</button>
@@ -67,10 +71,14 @@
                 <img src="Img/img2.jpg" alt="">
                 <div class="content">
                     <div class="author">Beatrice</div>
-                    <div class="title">Slider Design</div>
-                    <div class="topic">animal</div>
+                    <div class="title">animal</div>
+                    <div class="topic"><span>slider</span> design</div>
                     <div class="description">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt omnis rem eaque consectetur ab ipsa excepturi debitis natus fugit iusto!
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br> 
+                        Corporis eius dolor nobis repellendus, 
+                        voluptatem nulla excepturi accusantium illo <br> facere!
+                        Deleniti facilis nesciunt veritatis aliquam amet voluptatum! <br>
+                        Maiores alias praesentium commodi.
                     </div>
                         <div class="buttons">
                             <button>view more</button>
@@ -83,10 +91,14 @@
                 <img src="Img/img3.jpg" alt="">
                 <div class="content">
                     <div class="author">Beatrice</div>
-                    <div class="title">Slider Design</div>
-                    <div class="topic">animal</div>
+                    <div class="title">animal</div>
+                    <div class="topic"><span>slider</span> design</div>
                     <div class="description">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt omnis rem eaque consectetur ab ipsa excepturi debitis natus fugit iusto!
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br> 
+                        Corporis eius dolor nobis repellendus, 
+                        voluptatem nulla excepturi accusantium illo <br> facere!
+                        Deleniti facilis nesciunt veritatis aliquam amet voluptatum! <br>
+                        Maiores alias praesentium commodi.
                     </div>
                         <div class="buttons">
                             <button>view more</button>
@@ -96,7 +108,7 @@
             </div>
 
             <div class="item">
-                <img src="Img/img1.jpg" alt="">
+                <img src="Img/img4.jpg" alt="">
                 <div class="content">
                     <div class="author">Beatrice</div>
                     <div class="title">animal</div>
@@ -118,6 +130,7 @@
 
 <!-- <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<THUMBNAILS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->  
         <div class="thumbnails">
+             
 
                 <div class="item">
                     <img src="Img/img2.jpg" alt="">
