@@ -93,7 +93,7 @@
             </div>
 
             <div class="item">
-                <img src="Img/img4.jpg" alt="">
+                <img src="Img/Tiger_1.jpg" alt="">
                 <div class="content">
                     <div class="author">Beatrice</div>
                     <div class="title">animal</div>
@@ -114,6 +114,7 @@
         </div>
     </div>
 
+<!-- <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<SCRIPT>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->  
 
 <script src="slider.js"></script>
     
