@@ -110,6 +110,10 @@ header a:hover {
     animation-delay: 1.3s;
 }  
 
+/* .carousel .list .item:nth-child(1) .buttons {
+    animation-delay: 1.3s;
+}  */
+
 .carousel .list .item .content .title,
 .carousel .list .item .content .topic {
     font-weight: 500;
@@ -239,7 +243,7 @@ header a:hover {
     background-color: #eee;
 }
 
-.carousel.next .list .item:nth-child(1).img {
+.carousel.next .list .item:nth-child(1) .img {
     width: 150px;
     height: 220px;
     position: absolute;
