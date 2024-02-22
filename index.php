@@ -45,7 +45,7 @@
 
 <!-- <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CAROUSEL>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
 
-    <div class="carousel prev">
+    <div class="carousel">
         <div class="list">
             <div class="item">
                 <img src="Img/img1.jpg" alt="">
