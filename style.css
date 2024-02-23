@@ -75,6 +75,11 @@ header a:hover {
     font-family: "Fredoka", sans-serif;
 }
 
+.carousel .list .item .content .description {
+    font-family: "Raleway", sans-serif;
+    line-height: 25px;
+}
+
 .carousel .list .item:nth-child(1) .author,
 .carousel .list .item:nth-child(1) .title, 
 .carousel .list .item:nth-child(1) .topic,
